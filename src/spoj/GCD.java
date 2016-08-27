@@ -39,9 +39,10 @@ public class GCD {
 	
 	private static int findGcd(int a, int b)
 	{
-	    if (b==0)
+	    if (b==0) {
 	        return a;
-	    else
+	    } else {
 		return findGcd(b,a%b);
+	    }
 	}
 }

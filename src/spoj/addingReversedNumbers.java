@@ -3,7 +3,7 @@ package spoj;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class addingReversedNumbers {
+public class AddingReversedNumbers {
 
 	public static void main(String args[]) {
 		int firstNumber;

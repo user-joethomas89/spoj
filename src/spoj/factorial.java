@@ -4,7 +4,7 @@ import java.math.BigInteger;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class factorial {
+public class Factorial {
 
 	public static void main(String args[]) {
 		Scanner scanner = new Scanner(System.in);
